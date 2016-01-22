@@ -1,0 +1,233 @@
+﻿var myPlaylist = [
+    {
+        track:16,
+		mp3:'http://sbornik.tochka.asia/audio/016.mp3',
+        title:'16. Даров Господних чаша',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/016.mp3',
+        duration:'2:00',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B7<br>Даров Господних чаша для всех нас не пуста<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B7<br>Пусть «Слава Богу» чаще звучит в моих устах.<br><br>E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E<br>А если над тобою скрыт в тучах солнца луч,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E<br>Знай, небо голубое гораздо больше туч - 2p.<br><br>И если дух встревожен, ты в благость Божью верь.<br>Цени щедроты Божьи, их больше, чем потерь.<br><br>Груз будней предстоящих сегодня не понять.<br>Бог милостей вчерашних, Бог завтрашнего дня.</div>'
+    },
+	{
+        track:18,
+		mp3:'http://sbornik.tochka.asia/audio/018.mp3',
+        title:'18. Бог с нами в долине',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/018.mp3',
+        duration:'2:14',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>Em D<br>Бог с нами в долине удачи и близок в часы неудач.<br>C B7<br>Когда мы смеемся и плачем – Он с нами, Божественный Врач.<br>Em D<br>В глубокие топи унынья, в ущелье, где смертная тень<br>C B7<br>Спускается Он и поныне, чтоб нам помогать каждый день.<br>Em Am<br><br><i>Скажем вместе: «Слава Богу, слава Богу!»<br>B7 Em-B7 (Em)<br>Скажем вместе: «Мы идем за Тобой!» - 2р.</i><br><br>Бог с нами, когда наше знамя, которому имя – Любовь,<br>Торжественно реет над нами, вобрав в себя образ Христов.<br>Когда мы людей утешаем, слагая дела и слова,<br>Любовью своей подтверждая, что вера у нас не мертва.</div>'
+    },
+	{
+        track:28,
+		mp3:'http://sbornik.tochka.asia/audio/028.mp3',
+        title:'28. За все Господь тебя я благодарю',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/028.mp3',
+        duration:'3:05',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>F C Dm<br>За всё, Господь, Тебя я благодарю,<br>F C Dm D7<br>Ты искупил от смерти душу мою.<br>Gm D Gm C<br>И буду воспевать я по всей земле<br>F C Bb C<br>О том, как милостив и благ Ты ко мне.<br><br><i>F C Dm<br>Пусть будет вся слава Тебе,<br>Bb C F C Dm<br>Мой Иисус, Спасенье дал мне,<br>Bb C F C Dm<br>Мой Иисус, и сердце во мне,<br>Bb C F C Dm C Bb - F<br>Мой Иисус, поёт о Тебе всегда, Иисус.</i><br><br>С креста стекала кровь святая Твоя,<br>С креста стекая, очищала меня,<br>Одежду правды мне Иисус подарил,<br>Простил, очистил и меня искупил.<br><br>Я посвящаю жизнь свою лишь Тебе,<br>И благодать Твоя сегодня на мне,<br>Пусть каждый знает, слыша из моих уст<br>О том, как милостив и благ мой Иисус.</div>'
+    },
+	{
+        track:56,
+		mp3:'http://sbornik.tochka.asia/audio/056.mp3',
+        title:'56. Иисус мой, Спаситель',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/056.mp3',
+        duration:'2:01',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>C G Am Em F<br>Иисус мой, Спаситель, нет никого, как Ты.<br>C F C Am Bb G<br>Все свои дни я воспою великую любовь Твою.<br>C G Am Em F<br>Покой мой, приют мой, сила моя, когда слаб.<br>C F C Am Bb G<br>Всем существом, всем, что я есть, буду прославлять Тебя.<br><br><i>C Am F G<br>Господу пой вся земля вместе с нами,<br>C Am F G<br>Песню хвалы воспоём мы Царю.<br>C Am F G F G<br>Горы поклонятся, море поёт в Твою честь, славный Бог.<br>C Am F G<br>Я воспою все дела Твоих рук,<br>C Am F G<br>Навеки Тебя я люблю, мой Иисус.<br>C Am F G C<br>Нет ничего, что заменит Твою любовь!</i></div>'
+    },
+	{
+        track:60,
+		mp3:'http://sbornik.tochka.asia/audio/060.mp3',
+        title:'60. В дикой пустыне',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/018.mp3',
+        duration:'2:08',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>Em D<br>В дикой пустыне, воды нет и жизни лишь раскаленный песок<br>Am C B7 Em<br>Из рабства Египта в блаженное царство Божий народ идёт<br>Am Em<br><i>Видели очи дела святые, что Господь сотворил<br>Am C B7 Em<br>Славили Бога, Бога живого, Бог чудеса творил</i><br><br>Открылось небо, и падала манна, на раскалённый песок<br>Но среди манны я слёзы увидел плакал Великий Бог<br><i>Дети мои, мои дорогие Я вас Cвоими назвал<br>Из рабства Египта в Блаженное Царство Я вас одних позвал</i><br><br>Зачем же роптать вам, зачем же не верить в любовь мою и благодать<br>Чёрмное море сегодня свидетель, Я вас пришёл спасать<br><i>Мёртвые скалы по воле Бога, сильны вам воду давать<br>Верьте мне дети не бойтесь пустыни, Я буду вас охранять.</i><br><br>Промчится время, быстрой стрелою кончится трудный путь<br>Беды пустыни, боль и тревоги, скажет Иисус: забудь,<br><i>Дети Мои, Мои дорогие небо открыто для вас<br>Прощайте люди, прощай пустыня, Бог забирает нас.</i></div>'
+    },
+	{
+        track:86,
+		mp3:'http://sbornik.tochka.asia/audio/086.mp3',
+        title:'86. Если сил нет идти',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/086.mp3',
+        duration:'2:14',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>Em G C B<br>Если сил нет идти и в душе пустота,<br>Em G C D<br>Если ты изнемог и от жизни устал,<br>G C B Em<br>И тебе всё равно, что творится вокруг<br>C B<br>Кто-то должен сломать этот замкнутый круг.<br>G Em C B<br><br><i>Начинай жить для других, отвергай, отвергай себя,<br>D Em C D<br>Помоги тому, кто слабей, кто несчастней тебя.<br>Em G B Em<br>Начинай жить для других и скоро ты поймёшь,<br>C B Em<br>Что кому-то стало чуть – чуть теплей<br>C B Em<br>От того, что ты живёшь</i><br><br>Ты однажды поймёшь, что так больше нельзя.<br>Не туда ты идёшь, ты идёшь в никуда.<br>И что узок путь, что ведёт в небеса,<br>Этот путь для тебя, этот путь для меня.<br><br>Если душу свою для себя сбережёшь,<br>Потеряешь ее, и покой не найдёшь.<br>Как Христос до конца возлюбил всех Своих,<br>Так и ты возлюби и живи для других.</div>'
+    },
+	{
+        track:88,
+		mp3:'http://sbornik.tochka.asia/audio/088.mp3',
+        title:'88. Бог избрал нас',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/088.mp3',
+        duration:'2:10',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>G D Em<br>Бог избрал нас из разных народов,<br>C D G D<br>Дал нам имя одно.<br>G D Em<br>Бог избрал нас из разных племён, языков<br>C D G G7<br>Дал нам сердце одно,<br><br><i>C D Bm Em<br>Когда мы вместе - мы сильны,<br>C D Bm Em<br>Когда мы вместе - Иисус среди нас,<br>C D Bm Em<br>Когда мы вместе потоки Божьей любви<br>C D G<br>Льются с небес на нас.</i><br><br>Мы есть Церковь, мы есть Тело Христово<br>Мы любовью сильны.<br>Врата ада не одолеют наc<br>Потому, что непобедимы мы.</div>'
+    },
+	{
+        track:93,
+		mp3:'http://sbornik.tochka.asia/audio/093.mp3',
+        title:'93. И за день и за ночь',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/093.mp3',
+        duration:'2:52',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>G C G C D<br>И за день, и за ночь, и за кров, и за хлеб,<br>B7 Em A D<br>И за снег, и за дождь благодарны Тебе!<br>G C G C D<br>За святую любовь и за раны Твои,<br>B7 Em A D<br>И за всё мы тебя Боже благодарим.<br><br><i>G Em A G D B7 Em B7 Em<br>Спасибо, Господи, Отец, спасибо за мир в душе и за надежду,<br>A D A D G C G D G<br>Что не умрём, но будем живы, вечно живы в Царствии Твоём.</i><br><br>Да настанет тот час, что обещан Тобой.<br>Да раздастся Твой глас, наш Отец Неземной!</div>'
+    },
+	{
+        track:139,
+		mp3:'http://sbornik.tochka.asia/audio/139.mp3',
+        title:'139. Душу мою к Тебе',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/139.mp3',
+        duration:'1:57',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>D A Em Bm<br>Душу мою к Тебе возношу<br>G D A<br>На Тебя уповаю<br>D A Em Bm<br>Веры своей не устыжусь<br>G A D<br>Боже, к Тебе я взываю<br>G A D<br><br><i>Пусть Твоя истина и правота<br>G A D A<br>Ночью и днём охраняют меня.<br>D A Em Bm<br>Очи мои устремлены<br>G A D<br>К великому Богу любви.</i><br><br>Боже, как долго блуждал я во тьме.<br>Боже, будь рядом со мною.<br>Боже прошу, приблизься ко мне<br>В святости с нежной любовью</div>'
+    },
+	{
+        track:206,
+		mp3:'http://sbornik.tochka.asia/audio/206.mp3',
+        title:'206. Бог любви',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/206.mp3',
+        duration:'2:25',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>C Am Dm G<br>Бог любви, меня Ты не забыл,<br>C Am Dm G<br>Бог любви мне радость подарил.<br><br><i>Dm E Am<br>Ты не забываешь детей Своих,<br>Dm E Am<br>Счастье Ты им даришь из Рук святых<br>F G<br>Преклоняюсь я пред Тобою<br>C F Dm G C<br>И славлю Тебя, Бог любви</i><br><br>Бог любви, как долго я страдал<br>Бог любви, Ты отдых сердцу дал<br>Бог любви, о, сохрани Твой дар,<br>Чтоб в пути нам свет его сиял.</div>'
+    },
+	{
+        track:6,
+		mp3:'http://sbornik.tochka.asia/audio/006.mp3',
+        title:'6. Ищите же',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/006.mp3',
+        duration:'1:38',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>D A Bm F#m G D Em - A<br>Ищите прежде Царства Божия и правды Его.<br>D A Bm F#m G D Em-A-D<br>Всё остальное приложится вам. Аллилу-Аллилуйя!<br><br>Просите, и дано будет вам, ищите и найдёте,<br>Стучите, и отворят вам. Аллилу-Аллилуйя!<br><br>Царствие Божье не пища и питьё, а праведность и мир,<br>И радость во Святом Духе. Аллилу-Аллилуйя!</div>'
+    },
+	{
+        track:34,
+		mp3:'http://sbornik.tochka.asia/audio/034.mp3',
+        title:'34. Когда в море бушует волна',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/034.mp3',
+        duration:'2:28',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>Dm Gm C Dm<br>Когда в море бушует волна, ветер рвёт твои паруса,<br>Bb C F A<br>И бессмысленной стала борьба, пой тогда:<br><br><i>Gm C F Dm<br>Иисус, Ты – моя Скала, Иисус, Ты – живая вода,<br>Gm A Dm D7<br>И Голгофа – завет в крови, верен Ты, верен Ты!<br>Gm C F Dm<br>Упованье моё и покой, я однажды вернусь домой<br>Gm A Dm<br>И услышу Твои слова: “Я ждал тебя!”<br><br>В нашей жизни любая беда, словно в море крутая волна,<br>Губит тех, кто не хочет грести, свой крест нести.<br><br>Укрепившись любовью Отца, веря в жертву Иисуса Христа,<br> Силой Духа Святого всегда пой слова:</div>'
+    },
+	{
+        track:75,
+		mp3:'http://sbornik.tochka.asia/audio/075.mp3',
+        title:'75. Мое сердце Бог',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/075.mp3',
+        duration:'2:28',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>C Dm G C<br>Мое сердце, Бог, сделай истинным<br>Am Dm G C<br>Измени его, чтоб мне быть, как Ты<br><br><i>E Am Dm G C<br>В Твоих руках, Гончар, лишь глина я<br>E Am D G<br>“О, измени меня!” - взываю к Тебе</i><br><br>Я хочу себя, Бог, Тебе отдать<br>Чтобы Ты любя, мог меня менять<br>Сердце мое возьми и измени<br>И все, что хочешь Ты из него твори</div>'
+    },
+	{
+        track:77,
+		mp3:'http://sbornik.tochka.asia/audio/077.mp3',
+        title:'77. Измени меня',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/077.mp3',
+        duration:'3:38',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>A E F#m C#m F#m<br>Измени меня, сердце мое обнови,<br>D E F#m - D - E<br>Благодать Твою Ты ко мне яви.<br>A E F#m C#m F#m<br>Я прошу Тебя, лишь так как хочешь видеть Ты<br>D E E7 A<br>Измени меня Своей силой любви.<br><br><i>D E D A<br>И пусть вокруг будет лишь любовь Твоя,<br>D E F#m - D - E<br>Верю я, становлюсь сильней.<br>D E D A<br>О, как я жду, чтоб расправив крылья,<br>F#m D<br>Тобою быть ведомым и следовать скорей<br>E A<br>Волей чудной Твоей.</i><br><br>Я хочу с Тобой встретиться лицом к лицу,<br>Чтоб узнать любовь ко мне Твою.<br>Обнови меня, волю Свою мне яви,<br>Наполни каждый день<br>Своей силой любви.</div>'
+    },
+	{
+        track:110,
+		mp3:'http://sbornik.tochka.asia/audio/110.mp3',
+        title:'110. Милости Твоей',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/110.mp3',
+        duration:'1:46',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>Gm C<br>Милости Твоей полна вся земля,<br>F Dm<br>Милости Твоей полна жизнь моя.<br>Gm A<br>Милость Свою Ты превознес над судом,<br>Bb A Dm<br>Возлюбил меня и ввел в Свой дом.<br><br><i>Gm C F Dm Gm A Dm - D7<br>Ты спас меня и оправдал, освободил от вины<br>Gm C F Dm Gm A Dm<br>Ты спас меня и оправдал, Кровью Своею омыл</i><br><br>Bb A Dm Gm A<br>Благодарю Тебя, благодарю Тебя.</div>'
+    },
+	{
+        track:114,
+		mp3:'http://sbornik.tochka.asia/audio/114.mp3',
+        title:'114. Иисус как Ты дорог для меня',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/114.mp3',
+        duration:'1:35',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>D Em<br>Иисус, как Ты дорог для меня<br>A D<br>О, Иисус, внемлешь Ты мольбе моей<br>Bm Em<br>О, Иисус, поднимешь Ты, коль упаду,<br>A D<br>Как Ты дорог, дорог для меня.<br><br>Иисус, Тебя люблю я восхвалять<br>О Иисус, Ты без начала, без конца.<br>О Иисус, Ты умер и принял мой грех<br>Как Ты дорог, дорог для меня.<br><br>Иисус, Ты обещал прийти сюда<br>О Иисус, мы ждем Тебя, открыв сердца<br>О, Иисус, услышь Ты наши голоса<br>Как Ты дорог, дорог для меня</div>'
+    },
+	{
+        track:116,
+		mp3:'http://sbornik.tochka.asia/audio/116.mp3',
+        title:'116. Мы идем не одни',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/116.mp3',
+        duration:'1:46',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>G D Em<br>Мы идем не одни,<br>C Am D - D7<br>Ведет нас в жизни Бог любви,<br>Bm Em<br>Одной семьей мы стали во Христе,<br>C Am D D7<br>Пусть мир любовь увидит в полноте.<br>G D Em<br>Будем вместе до конца,<br>C Am D - D7<br>Горят любовью в нас сердца.<br>Bm B7 Em<br>Дай руку мне, пусть мир увидит вновь,<br>C D G<br>Как велика Христа любовь.<br><br>B7 Em<br>Мы во Христе одна семья,<br>C Am D - D7<br>Его любовь здесь вижу я.<br>G<br>Мы вместе можем много,<br>A7<br>Возлюбим же друг друга,<br>C D G - Em<br>Мы во Христе одна семья<br>C D G<br>Мы во Христе одна семья.</div>'
+    },
+	{
+        track:119,
+		mp3:'http://sbornik.tochka.asia/audio/119.mp3',
+        title:'119. Когда придут печали',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/119.mp3',
+        duration:'2:17',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>E C#m<br>Когда придут печали, заботы и тревоги<br>F#m B7<br>Только не грусти, Господь тебя хранит<br>E C#m<br>И даже если горе, тебя постигнет скоро<br>F#m B7<br>Только не грусти, Господь тебя хранит,<br>E - E7<br>Господь тебя хранит<br><br><i>A B7<br>В любви Господней только пребывай,<br>G#m C#m<br>Себя в мире Божьем утешай<br>F#m B7 E - E7<br>И постоянно в духе возрастай, Господь хранит - 2р.</i><br><br>Люби Иисуса вечно, Его прекрасный облик<br>Ты благодари, всем сердцем песню пой<br>В Нём обретёшь ты радость, любовь и мир, и счастье<br>Ты благодари, всем сердцем песню пой<br>Всем сердцем песню пой.</div>'
+    },
+	{
+        track:169,
+		mp3:'http://sbornik.tochka.asia/audio/169.mp3',
+        title:'169. Мой Господь в этот час',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/169.mp3',
+        duration:'3:18',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>Dm Bb C A<br>Мой Господь в этот час я склоняюсь в мольбе,<br>Dm Bb C A<br>И все нужды мои приношу я Тебе.<br>Gm A Dm - Bb<br>В жизни бурь и тревог Ты укроешь меня,<br>Gm A Dm - A<br>Путь ведь знаешь, мой Бог, он не скрыт от Тебя.<br>Dm Gm C<br><br><i>Ты, Господь, моя любовь моя,<br>F Bb<br>Щит мой и скала,<br>Gm A<br>Ведь Ты моя защита и опора.<br>Dm Gm C<br>Ты, Господь, моя любовь, моя,<br>F Bb<br>В Тебе укроюсь я,<br>Gm A<br>Ведь Ты моя защита и опора.</i><br><br>Не страшна мне с Тобой даже смертная тень,<br>Обрету я покой в небе в солнечный день.<br>Знаю, слезы мои Ты с любовью отрешь,<br>Все ошибки в пути Ты простишь и поймешь.<br><br>А пока, на земле, буду славить скорбя,<br>Буду сердцем я петь, ожидая Тебя.<br>Знаю, скоро придешь, скоро встречу Тебя,<br>Свою Церковь возьмешь от скорбей и от зла.</div>'
+    },
+	{
+        track:174,
+		mp3:'http://sbornik.tochka.asia/audio/174.mp3',
+        title:'174. Как часто мы блуждаем',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/174.mp3',
+        duration:'2:04',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>С<br>Как часто мы блуждаем<br>Em<br>И просто забываем,<br>A Dm<br>Что миром правит суета.<br>G<br>Порой в любовь играем,<br>E Am<br>Грехов не замечаем,<br>Dm G F - C<br>А в сердце боль и пустота<br><br><i>F G<br>Приди к Иисусу и скажи<br>C Am<br>«Я не могу так дальше жить,<br>Dm G C - C7<br>Я больше не хочу грешить, прости меня!<br>F G<br>Приди к Иисусу и поверь,<br>C Am<br>Что жизнь изменится теперь.<br>Dm G C<br>И что святая кровь Христа спасёт тебя.</i><br><br>Господь простит любого,<br>Он исцелит больного,<br>Наполнит сердце добротой<br>Его любовь святая живёт и побеждает<br>Приносит радость и покой.</div>'
+    },
+	{
+        track:203,
+		mp3:'http://sbornik.tochka.asia/audio/203.mp3',
+        title:'203. Мы видим в облике',
+        artist:'Сборник молодежных песен',
+        rating:5,
+        buy:'http://sbornik.tochka.asia/audio/203.mp3',
+        duration:'1:36',
+        cover:'player/mix/sbornik.jpg',
+		lyrics: '<div>G Em<br>Мы видим в облике всех братьев<br>Am G D<br>Господний образ прекрасный,<br>Bm Em<br>Мы стали чадами Божьими,<br>Am D G<br>Чтоб любить и служить<br><br>Мы видим в облике сестёр всех<br>Господний образ прекрасный,<br>Мы стали чадами Божьими,<br>Чтоб любить и служить<br><br>Среди всех нас Себя явившая<br>Господня Слава прекрасная.<br>Наш дивный Царь здесь пребывает<br>Любить будем и служить.</div>'
+    }
+];
